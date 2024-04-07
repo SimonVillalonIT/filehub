@@ -1,0 +1,12 @@
+{
+  "server": {
+    "port": 8080
+  },
+  "credentials": {
+    "username": "test",
+    "password": "test",
+    "secret": "mysecret"
+  },
+  "data_folder": "/home/simonit/test"
+}
+
